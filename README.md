@@ -6,7 +6,7 @@ Final Project for Info 2950: Intro to Data Science
 
 ## What is the context of the work?
 
-Economic inequality is a huge problem in the United States. Wealth distribution is uneven and there are wealth gaps between racial groups. For this project I took the bottom 20% average household income of White, White Alone Not Hispanic, Asian, Hispanic, and Black households and compared them to the top 5% average household income of the same racial groups' households over the years 2002 to 2019. I want to see how they compare to each other annd to the GDP per capita over the years, which is theoretically a measure of a persons income.
+Economic inequality is a huge problem in the United States. Wealth distribution is uneven and there are wealth gaps between racial groups. For this project I took the bottom 20% average household income of White, White Alone Not Hispanic, Asian, Hispanic, and Black households and compared them to the top 5% average household income of the same racial groups' households over the years 2002 to 2019. I want to see how they compare to each other and to the GDP per capita over the years, which is theoretically a measure of a persons income.
 
 ## What research questions are you trying to answer?
 
